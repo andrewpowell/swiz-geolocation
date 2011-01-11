@@ -1,8 +1,8 @@
 package org.swizframework.config {
     public class GeolocationSetup {
 
-        private var _updateInterval:int;
-        private var _stopOnDeactivate:Boolean;
+        private var _updateInterval:int=0;
+        private var _stopOnDeactivate:Boolean=true;
 
         public function GeolocationSetup() {
         }
