@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<componentPackage>
+	
+	<component class="org.swizframework.config.GeolocationSetup" />
+	<component class="org.swizframework.metadata.GeolocationMetadataTag" />
+	<component class="org.swizframework.processors.GeolocationProcessor" />
+	
+</componentPackage>
